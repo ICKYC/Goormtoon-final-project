@@ -1,0 +1,19 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        format_sql: false
+
+  rabbitmq:
+    ssl:
+      enabled: true
+
+  data:
+    mongodb:
+      uri: mongodb://${MONGO_HOST}:${MONGO_PORT}
+      username: ${MONGO_USERNAME}
+      password: ${MONGO_PASSWORD}
+      authentication-database: admin
+      database: etd
