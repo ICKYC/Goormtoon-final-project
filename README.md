@@ -4,7 +4,9 @@
 
 Easy To Dedicate(ETD) Service Code
 * Back : Spring Boot
-* Front : Thymeleaf 
+* Front : Thymeleaf
+* CI: Jenkins
+* CD: argoCD
 
 #test
 ![Untitled](https://github.com/ICKYC/Goormtoon-final-project/assets/76530377/028b115c-0fde-4608-9685-e234e8cce0b3)
