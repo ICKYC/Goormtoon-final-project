@@ -8,7 +8,7 @@ Easy To Dedicate(ETD) Service Code
 * CI: Jenkins
 * CD: argoCD
 
-역할: Application CI/CD
+역할: Application CI/CD 파이프라인 작성 및 관리 담당
 
 #test
 ![Untitled](https://github.com/ICKYC/Goormtoon-final-project/assets/76530377/028b115c-0fde-4608-9685-e234e8cce0b3)
